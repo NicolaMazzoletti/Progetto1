@@ -9,7 +9,7 @@ ___
 
 Dimensioni del holder: <br>
 	- Libertà di scelta (MAX 30cm x 30cm), <br>
-	- Spessore max 5 cm.
+	- Spessore scelto dal cliente.
 ___
 
 Budget: <br>
